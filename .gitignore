@@ -1,0 +1,23 @@
+# camp dataset / weights — do not commit
+data/
+training_image/
+validation_image/
+training_label/
+validation_label/
+output/
+*.pth
+*.pt
+*.jpg
+*.jpeg
+*.json
+# notebooks / python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+# os
+.DS_Store
+Thumbs.db
+desktop.ini
